@@ -1,0 +1,10 @@
+# Created by .gitignore support plugin (hsz.mobi)
+deathCounter.iml
+deathCounter.ipr
+deathCounter.iws
+.classpath
+.project
+eclipse
+.settings
+.gradle
+build
