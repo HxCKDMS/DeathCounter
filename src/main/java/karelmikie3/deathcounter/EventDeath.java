@@ -23,7 +23,6 @@ public class EventDeath implements EventListener {
                 Deaths = Integer.parseInt(reader.readLine());
                 reader.close();
                 Deaths++;
-                System.out.println(Deaths);
                 BufferedWriter writer = new BufferedWriter(new FileWriter(file));
                 writer.write(Deaths + "\n");
                 writer.close();
