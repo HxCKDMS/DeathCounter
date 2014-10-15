@@ -1,0 +1,16 @@
+[
+{
+  "modid": "deathcounter",
+  "name": "Death Counter",
+  "description": "This mod saves the amounts of deaths in a file so it can be used in xsplit or something.",
+  "version": "1.7.10-0.0.1a",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["karelmikie3"],
+  "credits": "karelmikie3",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
